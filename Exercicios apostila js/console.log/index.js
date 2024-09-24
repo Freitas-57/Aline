@@ -1,0 +1,5 @@
+console.log('Aprendendo a usar o console log')
+console.log('para retornar um texto ele deve está entre aspas simples ou duplas')
+console.log('numeros pode vir ou não entre aspas')
+console.log('Exemplo: '); console.log(2500)
+console.log('2500')

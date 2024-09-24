@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:  none;
+    text-decoration: none;
+}
+
+body {
+   width: 100vw;
+   height: 100vw;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.form-input{
+    border: 1px solid #000000;
+}
+
+.form-title{
+    margin: 0 0 10px 0;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;  
+}
